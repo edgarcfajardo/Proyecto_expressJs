@@ -20,6 +20,11 @@ function login(email, password) {
         console.log(errorCode, errorMessage)
     });
 
+    
+
+
+    
+
 }
 
 function singup(params) {
